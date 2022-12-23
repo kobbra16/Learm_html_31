@@ -1,0 +1,126 @@
+#menu4 ul {
+    list-style-type: none;
+    width: 200px;
+}
+
+ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+#menu4 li {
+    margin-bottom: 5px;
+}
+
+user agent stylesheet li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+#menu4 a:link,
+#menu4 a:visited {
+    text-decoration: none;
+    color: white;
+    font: 13px Arial;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: bold;
+    font-stretch: normal;
+    font-size: 13px;
+    line-height: 30px;
+    font-family: Arial;
+    border: 1px solid #0081E7;
+    border-top-color: rgb(0, 129, 231);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(0, 129, 231);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(0, 129, 231);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(0, 129, 231);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    display: block;
+    padding: 0px 5px;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+    line-height: 30px;
+    background-color: #0081E7;
+    font-weight: bold;
+}
+
+#menu4 a:link,
+#menu4 a:visited {
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    color: white;
+    font: 13px Arial;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: bold;
+    font-stretch: normal;
+    font-size: 13px;
+    line-height: 30px;
+    font-family: Arial;
+    border: 1px solid #0081E7;
+    border-top-color: rgb(0, 129, 231);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-right-color: rgb(0, 129, 231);
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-bottom-color: rgb(0, 129, 231);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(0, 129, 231);
+    border-left-style: solid;
+    border-left-width: 1px;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    display: block;
+    padding: 0px 5px;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-bottom: 0px;
+    padding-left: 5px;
+    line-height: 30px;
+    background-color: #0081E7;
+    font-weight: bold;
+}
+
+#menu4 a:hover,
+#menu4 a.active {
+    color: blue;
+    background: #fff url(http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/images/blue.png) no-repeat 90% center;
+    background-image: url(http://old.code.mu/exercises/css/praktika-po-sozdaniyu-gorizontalnyh-i-vertikalnyh-menyushek/1/images/blue.png);
+    background-position-x: 90%;
+    background-position-y: center;
+    background-size: initial;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 255);
+}
